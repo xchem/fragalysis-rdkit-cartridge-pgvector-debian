@@ -1,6 +1,6 @@
 # Fragalysis PG-Vector DB image
 
-![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/xchem/fragalysis-rdkit-cartridge-pgvector-debian)
+![GitHub Release](https://img.shields.io/github/v/release/xchem/fragalysis-rdkit-cartridge-pgvector-debian)
 
 A project that adds [pgvector] to the otherwise standard PostgreSQL
 database cartridge.
